@@ -25,3 +25,11 @@
 ## Entonces la respuesta es 5.
 
 ## ``La Sucesión o Algoritmo de Fibonacci se caracteriza por el hecho de que cada número en ella es igual a la suma de los anteriores: 0, 1, 1, 2, 3, 5, 8, 13, 21… ``
+
+# Practice on your own
+## ¡Feel free to do them if you want to improve even more in programming and if you are a beginner, these exercises will be very helpful!
+
+# Contributing 
+## Contributions are always welcome! Open a PR or an issue!
+
+# Thank you !
